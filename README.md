@@ -5,7 +5,7 @@ Verilog design that controls an LED and a motor from four voice-command inputs (
 ## Files
 - `voice_control.v`: top module
 - `tb_voice_control.v`: testbench
-- `Nexys-A7-100T-voice-control.xdc`: pin constraints (add this file if you have it)
+- `Nexys-A7-100T-voice-control.xdc`: pin constraints 
 
 ## Pin Mapping
 | Signal | Connection | Pin |
